@@ -39,27 +39,25 @@ console.log(multiply(num1,num2))
 var firstMissingPositive = function(nums) {
     let n = nums.length;
 
-    // Place each number in its correct position, i.e., number i should be at index i-1
+    
     for (let i = 0; i < n; i++) {
         while (nums[i] > 0 && nums[i] <= n && nums[nums[i] - 1] !== nums[i]) {
-            // Swap nums[i] with nums[nums[i] - 1] to place it in the correct position
+           
             [nums[nums[i] - 1], nums[i]] = [nums[i], nums[nums[i] - 1]];
         }
     }
 
-    // Now check for the first missing positive number
     for (let i = 0; i < n; i++) {
         if (nums[i] !== i + 1) {
             return i + 1;
         }
     }
 
-    // If all numbers are in the correct position, return n + 1
+   
     return n + 1;
 };
 
-// Example usage
-const nums = [3, 4, -1, 1];
-console.log(firstMissingPositive(nums)); // Output: 2
 
+const nums = [3, 4, -1, 1];
+console.log(firstMissingPositive(nums));
 
