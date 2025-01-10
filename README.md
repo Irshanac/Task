@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Irshanac/Task/tree/master/0020-valid-parentheses) |
+| [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Irshanac/Task/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
