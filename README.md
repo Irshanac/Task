@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
+| [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
+| [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Irshanac/Task/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -30,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Irshanac/Task/tree/master/3455-minimum-length-of-string-after-operations) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
