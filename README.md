@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Irshanac/Task/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Irshanac/Task/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Irshanac/Task/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Irshanac/Task/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Irshanac/Task/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Counting
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Irshanac/Task/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Irshanac/Task/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Irshanac/Task/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
