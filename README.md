@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Irshanac/Task/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Irshanac/Task/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Irshanac/Task/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Irshanac/Task/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Irshanac/Task/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Irshanac/Task/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Irshanac/Task/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Irshanac/Task/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Irshanac/Task/tree/master/0371-sum-of-two-integers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
