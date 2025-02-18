@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Irshanac/Task/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Irshanac/Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Irshanac/Task/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Irshanac/Task/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Irshanac/Task/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Irshanac/Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Irshanac/Task/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Irshanac/Task/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Irshanac/Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
