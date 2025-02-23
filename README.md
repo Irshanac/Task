@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Irshanac/Task/tree/master/1899-count-items-matching-a-rule) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Irshanac/Task/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Irshanac/Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Irshanac/Task/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Irshanac/Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Irshanac/Task/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Irshanac/Task/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Irshanac/Task/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Irshanac/Task/tree/master/2231-find-first-palindromic-string-in-the-array) |
