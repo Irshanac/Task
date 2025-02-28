@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1137-height-checker](https://github.com/Irshanac/Task/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Irshanac/Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Irshanac/Task/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Irshanac/Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Irshanac/Task/tree/master/0371-sum-of-two-integers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Irshanac/Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Irshanac/Task/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
