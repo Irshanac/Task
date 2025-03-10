@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Irshanac/Task/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Irshanac/Task/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Irshanac/Task/tree/master/1635-number-of-good-pairs) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Irshanac/Task/tree/master/1965-sum-of-digits-in-base-k) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Irshanac/Task/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
