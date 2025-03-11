@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Irshanac/Task/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Irshanac/Task/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Irshanac/Task/tree/master/0387-first-unique-character-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/Irshanac/Task/tree/master/0551-student-attendance-record-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Irshanac/Task/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Irshanac/Task/tree/master/0952-word-subsets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Irshanac/Task/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
